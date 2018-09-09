@@ -7,7 +7,6 @@
 
   "content_scripts": [{
     "js": ["content.js"],
-    "css": ["content.css"],
     "matches": ["https://aparat.com/*" , "https://www.aparat.com/*"]
   }]
 
